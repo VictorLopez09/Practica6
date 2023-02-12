@@ -1,0 +1,43 @@
+.banner {
+    border: 1;
+    margin: 0;
+    padding: 20px 10px 40px;
+    border-collapse: collapse;
+    background-color: #15236F;
+    color:white
+    
+    
+}
+
+.menu_p{
+    background-color: #3B11A6;
+    box-shadow: none;
+}
+
+
+body{
+    background-attachment: #665959;
+    font-family: 'arial';
+    font-size: 18px;
+    background-color: #030100;
+}
+td {
+    vertical-align: text-top;
+}
+ul {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #29165b;
+}
+
+div {
+    color: #000;
+    height: 100%;
+    padding: 20px 10px 40px;
+    margin: 10px;
+    background-color: #9B82D9;
+    border-radius: 15px 15px 15px 15px;
+    box-shadow: 2px 2px 5px #9B82D9;
+}
